@@ -21,6 +21,9 @@
         ]); ?>
     </script>
     <script src="/js/backend/ckeditor/ckeditor.js"></script>
+    <style>
+        body{background-color: #2e9ad0;}
+        </style>
 </head>
 <body>
   <aside class="menu">
